@@ -1,7 +1,6 @@
 {
   "name": "in2plane",
   "version": "1.0.0",
-  "private": true,
   "dependencies": {
     "my-ops": "1.0.0",
     "cross-env": "5.0.5",
